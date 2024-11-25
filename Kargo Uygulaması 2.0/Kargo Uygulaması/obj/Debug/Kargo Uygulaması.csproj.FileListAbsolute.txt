@@ -1,0 +1,46 @@
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe.config
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.pdb
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.Form1.resources
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.Properties.Resources.resources
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.GenerateResource.cache
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.exe
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.pdb
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.AnaSayfa.resources
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe.manifest
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.application
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.exe.manifest
+C:\Users\cagri\Desktop\Forms Kodlar\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.application
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe.config
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe.manifest
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.application
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.pdb
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.AssemblyReference.cache
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.AnaSayfa.resources
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.Form1.resources
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.Properties.Resources.resources
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.GenerateResource.cache
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.CoreCompileInputs.cache
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.exe.manifest
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.application
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.exe
+D:\437571 - Çağrı Dingiltepe\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.pdb
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe.config
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe.manifest
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.application
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.exe
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\bin\Debug\Kargo Uygulaması.pdb
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.AnaSayfa.resources
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.Form1.resources
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.Properties.Resources.resources
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.GenerateResource.cache
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.exe.manifest
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.application
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.exe
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo Uygulaması.pdb
+C:\Users\cagri\Desktop\KargoApp\Kargo Uygulaması\Kargo Uygulaması\obj\Debug\Kargo_Uygulaması.YoneticiEkrani.resources
